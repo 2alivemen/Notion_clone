@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702968340523,
+      "tag": "0000_lyrical_starfox",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702989878830,
+      "tag": "0001_demonic_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1703091930947,
+      "tag": "0002_ambiguous_switch",
+      "breakpoints": true
+    }
+  ]
+}

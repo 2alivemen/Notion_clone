@@ -1,5 +1,4 @@
 import TitleSection from '@/components/landing-page/title-section'
-import { Button } from '@/components/ui/button'
 import React from 'react'
 
 const HomePage = () => {
@@ -25,12 +24,12 @@ const HomePage = () => {
            sm:w-[300px]
            '>
 
-            <Button variant='btn-secondary' className='w-full
+            <button className='w-full
             mt-6
             rounded-[10px]
             p-6
             text-2xl
-            bg-background'> Get ento Free</Button>
+            bg-background'> Get ento Free</button>
            </div>
         </div>
     </section>
